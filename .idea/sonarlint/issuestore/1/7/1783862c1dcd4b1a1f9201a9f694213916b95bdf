@@ -1,0 +1,27 @@
+
+W
+java:S1854"=Remove this useless assignment to local variable "triangulo".(È¿úD8É¾‰ƒ„/
+M
+java:S1481"-Remove this unused "cuadrado" local variable.(Ø‹é†ıÿÿÿÿ8Šƒ„/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÁËÉ8ˆ²ù‚„/
+Y
+java:S1854"9Remove this useless assignment to local variable "order".(¥Èïİûÿÿÿÿ8‚ƒ‚ƒ„/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ï…ãøÿÿÿÿ8ˆ²ù‚„/
+J
+java:S1481"*Remove this unused "order" local variable.(ö¹ÀÒûÿÿÿÿ8íÜö‚„/
+H
+java:S1481".Remove this unused "triangulo" local variable.(È¿úD8§Û‰ƒ„/
+0
+java:S1220""Move this file to a named package.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(õÀ«‰ùÿÿÿÿ8êÒ÷‚„/
+O
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8êÒ÷‚„/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(œÉÑøÿÿÿÿ8‚òù‚„/
+X
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ëõğ‚„/
+\
+java:S1854"<Remove this useless assignment to local variable "cuadrado".(Ø‹é†ıÿÿÿÿ8Šƒ„/
+G
+java:S2440"-Remove this instantiation of "AreaTriangulo".(È¿úD8–ıÖƒ„/
+L
+java:S2440",Remove this instantiation of "AreaCuadrado".(Ø‹é†ıÿÿÿÿ8–ıÖƒ„/
